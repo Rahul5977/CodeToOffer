@@ -1,9 +1,6 @@
-# Rahul
-
-## Basic C++ Competitive Programming Template
-
-```cpp
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <algorithm>
 using namespace std;
 
 #define ll long long
@@ -14,11 +11,6 @@ using namespace std;
 
 int main() {
     fast_io;
-    int t = 1;
-    // cin >> t; // Uncomment if multiple test cases
-    while (t--) {
-        // Write your solution here
-    }
+    
     return 0;
 }
-```
